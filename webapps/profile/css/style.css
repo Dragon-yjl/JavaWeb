@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    font-size: 100px;
+    color: yellow;
+}
+
+body {
+    background-image: url("../image/profile.jpg");
+
+    color: blue;
+}
+
+div.hobby li {
+    color: blue;
+}
+
+div.hobby li:hover {
+    color: red;
+}
+
